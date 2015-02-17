@@ -7,4 +7,6 @@
 
 <strong>Without a controller, use keys to trigger:</strong> <em>q, w, e, r, t, y, u, i, a, s, d, f, z, x, c, v
 
+Video Demo <a href="https://vimeo.com/119825927">HERE</a>
+
 <img src=https://cloud.githubusercontent.com/assets/9808027/6224430/902bf0d6-b630-11e4-8fd1-275b385c826c.jpg>
